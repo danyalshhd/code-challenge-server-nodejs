@@ -9,5 +9,6 @@ Please refer to the provided document for the code challenge requirements.
 - `npm run test` - Test the application
 
 
-### Include authorization middleware
-### Write integration tests (check for reponse normalization)
+### Improvements
+- Include authorization middleware
+- Write integration tests (check for reponse normalization)
